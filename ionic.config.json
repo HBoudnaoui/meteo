@@ -1,0 +1,7 @@
+{
+  "name": "meteohamid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
