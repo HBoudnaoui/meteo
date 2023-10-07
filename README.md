@@ -15,9 +15,6 @@ npm run dev
 
 ionic build 
 
-RUN : 
-ionic serve 
-
 Install Capacitor​
 
 
@@ -42,3 +39,6 @@ Sync your web code to your native project​
 Once you've created your native projects, you can sync your web application to your native project by running the following command.
 
 npx cap sync
+
+RUN :  ionic serve 
+
