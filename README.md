@@ -13,6 +13,11 @@ npm install
 
 npm run dev 
 
+ionic build 
+
+RUN : 
+ionic Build 
+
 Install Capacitor​
 
 
