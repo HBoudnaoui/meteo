@@ -16,7 +16,7 @@ npm run dev
 ionic build 
 
 RUN : 
-ionic Build 
+ionic serve 
 
 Install Capacitor​
 
